@@ -13,6 +13,11 @@ export const Box = styled.div`
     padding:20px 0;
     text-transform:uppercase;
   }
+  @media(max-width:900px){
+    width:80%;
+    margin:15% auto;
+    background:#4e4b4b87;
+  }
 `;
 export const Btn = styled.button`
   padding: 5px;
@@ -39,4 +44,5 @@ export const Flex = styled.div`
   gap: 20px;
   justify-content: center;
   padding-top: 1.5rem;
+  align-items: center;
 `;
