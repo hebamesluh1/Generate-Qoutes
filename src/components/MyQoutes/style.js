@@ -15,7 +15,7 @@ export const Box = styled.div`
   }
   @media(max-width:900px){
     width:80%;
-    margin:15% auto;
+    margin:50% auto;
     background:#4e4b4b87;
   }
 `;
