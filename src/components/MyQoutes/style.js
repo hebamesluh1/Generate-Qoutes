@@ -16,7 +16,6 @@ export const Box = styled.div`
   @media(max-width:900px){
     width:80%;
     margin:50% auto;
-    background:#4e4b4b87;
   }
 `;
 export const Btn = styled.button`
